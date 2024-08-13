@@ -1,4 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Lima====================================================================================================================================Red Teamer----------* 🧠  I'm learning Python
+Hi 👋 My name is Gabriel Lima
+=============================
+Red Team | Offensive Security |
+-------------------------------
+* 🌍  I'm based in Brazil
+* 🧠  I'm learning Python (for pentesters), DCPT Exam and OSCP Exam
 
 ### Skills
 
